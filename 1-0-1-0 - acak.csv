@@ -1,0 +1,359 @@
+﻿Glukosa,BMI,Gender,Umur,Riwayat Keluarga,Kelas
+180,35.2,Laki-Laki,54,Tidak Ada Riwayat,Diabetes
+139,32,Laki-Laki,58,Tidak Ada Riwayat,Tidak Diabetes
+159,26.4,Laki-Laki,28,Ada Riwayat,Diabetes
+188,48.8,Laki-Laki,37,Ada Riwayat,Diabetes
+131,23.8,Perempuan,31,Tidak Ada Riwayat,Tidak Diabetes
+96,30.4,Perempuan,38,Tidak Ada Riwayat,Tidak Diabetes
+237,35.1,Laki-Laki,30,Tidak Ada Riwayat,Diabetes
+167,33.3,Laki-Laki,38,Ada Riwayat,Diabetes
+117,37.7,Perempuan,29,Tidak Ada Riwayat,Tidak Diabetes
+138,38.2,Perempuan,23,Tidak Ada Riwayat,Tidak Diabetes
+153,46.5,Laki-Laki,58,Tidak Ada Riwayat,Tidak Diabetes
+201,33.3,Perempuan,24,Tidak Ada Riwayat,Diabetes
+155,32.3,Laki-Laki,27,Ada Riwayat,Diabetes
+138,29.7,Laki-Laki,33,Tidak Ada Riwayat,Tidak Diabetes
+80,25.3,Laki-Laki,28,Tidak Ada Riwayat,Tidak Diabetes
+92,39.4,Perempuan,24,Tidak Ada Riwayat,Tidak Diabetes
+134,35.8,Laki-Laki,21,Tidak Ada Riwayat,Tidak Diabetes
+168,34.6,Laki-Laki,21,Tidak Ada Riwayat,Diabetes
+126,38.2,Perempuan,29,Tidak Ada Riwayat,Tidak Diabetes
+110,22.6,Perempuan,21,Tidak Ada Riwayat,Tidak Diabetes
+155,27.8,Perempuan,22,Tidak Ada Riwayat,Tidak Diabetes
+200,37,Laki-Laki,31,Ada Riwayat,Diabetes
+132,41.5,Laki-Laki,27,Tidak Ada Riwayat,Tidak Diabetes
+79,32.8,Perempuan,33,Tidak Ada Riwayat,Tidak Diabetes
+81,21.9,Perempuan,25,Ada Riwayat,Tidak Diabetes
+129,27.3,Perempuan,22,Ada Riwayat,Tidak Diabetes
+112,32.4,Perempuan,21,Tidak Ada Riwayat,Tidak Diabetes
+218,32.8,Laki-Laki,42,Ada Riwayat,Diabetes
+100,21.2,Laki-Laki,23,Tidak Ada Riwayat,Tidak Diabetes
+104,27.8,Perempuan,30,Tidak Ada Riwayat,Tidak Diabetes
+180,29.7,Perempuan,46,Ada Riwayat,Diabetes
+100,30,Perempuan,22,Ada Riwayat,Tidak Diabetes
+227,30.5,Laki-Laki,53,Ada Riwayat,Diabetes
+182,34.2,Perempuan,33,Ada Riwayat,Diabetes
+97,33.2,Perempuan,24,Ada Riwayat,Tidak Diabetes
+196,32.9,Laki-Laki,39,Ada Riwayat,Diabetes
+96,26.3,Laki-Laki,24,Tidak Ada Riwayat,Tidak Diabetes
+144,27.4,Laki-Laki,34,Ada Riwayat,Diabetes
+100,37.2,Laki-Laki,22,Tidak Ada Riwayat,Tidak Diabetes
+108,34.3,Laki-Laki,22,Tidak Ada Riwayat,Tidak Diabetes
+120,34.5,Laki-Laki,40,Tidak Ada Riwayat,Tidak Diabetes
+120,37.4,Laki-Laki,41,Tidak Ada Riwayat,Tidak Diabetes
+186,31.6,Perempuan,25,Ada Riwayat,Diabetes
+201,46.8,Laki-Laki,45,Tidak Ada Riwayat,Diabetes
+113,28.1,Perempuan,21,Ada Riwayat,Tidak Diabetes
+97,25.2,Laki-Laki,21,Ada Riwayat,Tidak Diabetes
+177,49.3,Laki-Laki,27,Ada Riwayat,Diabetes
+123,42.4,Laki-Laki,22,Tidak Ada Riwayat,Tidak Diabetes
+110,26.1,Perempuan,67,Tidak Ada Riwayat,Tidak Diabetes
+99,22.3,Perempuan,24,Ada Riwayat,Tidak Diabetes
+181,42.1,Laki-Laki,21,Tidak Ada Riwayat,Diabetes
+85,34.9,Perempuan,25,Ada Riwayat,Tidak Diabetes
+107,36.3,Laki-Laki,23,Tidak Ada Riwayat,Tidak Diabetes
+188,36.5,Perempuan,29,Ada Riwayat,Diabetes
+197,23.8,Perempuan,60,Ada Riwayat,Diabetes
+153,29.7,Perempuan,23,Tidak Ada Riwayat,Tidak Diabetes
+100,25.4,Laki-Laki,22,Ada Riwayat,Tidak Diabetes
+179,43.6,Laki-Laki,53,Ada Riwayat,Diabetes
+90,26,Perempuan,30,Tidak Ada Riwayat,Tidak Diabetes
+196,23.5,Laki-Laki,59,Ada Riwayat,Diabetes
+104,35.8,Perempuan,21,Tidak Ada Riwayat,Tidak Diabetes
+92,25,Perempuan,25,Ada Riwayat,Tidak Diabetes
+90,36.9,Perempuan,28,Tidak Ada Riwayat,Tidak Diabetes
+90,27.8,Perempuan,58,Ada Riwayat,Tidak Diabetes
+190,44.5,Perempuan,24,Ada Riwayat,Diabetes
+114,25.9,Perempuan,81,Tidak Ada Riwayat,Tidak Diabetes
+77,18.2,Perempuan,21,Ada Riwayat,Tidak Diabetes
+76,23.7,Perempuan,28,Tidak Ada Riwayat,Tidak Diabetes
+194,28.9,Perempuan,45,Ada Riwayat,Diabetes
+210,36.5,Laki-Laki,35,Ada Riwayat,Diabetes
+102,36.2,Perempuan,28,Ada Riwayat,Tidak Diabetes
+154,27.6,Laki-Laki,29,Ada Riwayat,Diabetes
+134,31.3,Perempuan,37,Tidak Ada Riwayat,Tidak Diabetes
+191,42.9,Laki-Laki,22,Ada Riwayat,Diabetes
+96,27.4,Perempuan,21,Tidak Ada Riwayat,Tidak Diabetes
+193,31.6,Laki-Laki,28,Ada Riwayat,Diabetes
+177,35.6,Laki-Laki,52,Ada Riwayat,Diabetes
+120,35.7,Perempuan,28,Tidak Ada Riwayat,Tidak Diabetes
+192,24.3,Laki-Laki,50,Ada Riwayat,Diabetes
+185,34,Laki-Laki,46,Tidak Ada Riwayat,Diabetes
+106,25.9,Laki-Laki,39,Ada Riwayat,Tidak Diabetes
+75,26.1,Laki-Laki,22,Tidak Ada Riwayat,Tidak Diabetes
+187,38.2,Perempuan,27,Ada Riwayat,Diabetes
+159,26.4,Laki-Laki,28,Ada Riwayat,Diabetes
+193,39,Laki-Laki,33,Tidak Ada Riwayat,Diabetes
+200,52.9,Laki-Laki,28,Tidak Ada Riwayat,Diabetes
+173,34.9,Perempuan,41,Ada Riwayat,Diabetes
+173,33.7,Laki-Laki,40,Tidak Ada Riwayat,Diabetes
+104,32,Perempuan,29,Tidak Ada Riwayat,Tidak Diabetes
+79,26.9,Perempuan,32,Ada Riwayat,Tidak Diabetes
+154,28.7,Laki-Laki,52,Ada Riwayat,Diabetes
+79,25.6,Perempuan,24,Tidak Ada Riwayat,Tidak Diabetes
+169,31.2,Laki-Laki,44,Ada Riwayat,Diabetes
+300,42.9,Laki-Laki,21,Tidak Ada Riwayat,Diabetes
+127,29.9,Perempuan,28,Ada Riwayat,Tidak Diabetes
+96,32.8,Laki-Laki,41,Tidak Ada Riwayat,Tidak Diabetes
+191,32,Perempuan,22,Ada Riwayat,Diabetes
+177,49.6,Laki-Laki,26,Ada Riwayat,Diabetes
+106,26.6,Perempuan,66,Tidak Ada Riwayat,Tidak Diabetes
+91,24,Perempuan,23,Tidak Ada Riwayat,Tidak Diabetes
+178,33.9,Laki-Laki,34,Tidak Ada Riwayat,Diabetes
+162,32.9,Perempuan,23,Tidak Ada Riwayat,Diabetes
+103,33.6,Perempuan,34,Tidak Ada Riwayat,Tidak Diabetes
+71,24.2,Perempuan,58,Tidak Ada Riwayat,Tidak Diabetes
+187,30.5,Laki-Laki,29,Tidak Ada Riwayat,Diabetes
+113,27,Perempuan,36,Ada Riwayat,Tidak Diabetes
+101,36.7,Perempuan,31,Tidak Ada Riwayat,Tidak Diabetes
+121,30.1,Perempuan,25,Tidak Ada Riwayat,Tidak Diabetes
+154,27.4,Laki-Laki,36,Ada Riwayat,Diabetes
+190,36.6,Laki-Laki,46,Ada Riwayat,Diabetes
+182,26.8,Laki-Laki,43,Ada Riwayat,Diabetes
+186,35,Laki-Laki,52,Tidak Ada Riwayat,Diabetes
+206,33.7,Laki-Laki,58,Ada Riwayat,Diabetes
+83,46.2,Perempuan,42,Tidak Ada Riwayat,Tidak Diabetes
+100,30.5,Perempuan,26,Tidak Ada Riwayat,Tidak Diabetes
+178,33.6,Perempuan,50,Ada Riwayat,Diabetes
+196,40.9,Laki-Laki,32,Ada Riwayat,Diabetes
+108,35.3,Perempuan,39,Ada Riwayat,Tidak Diabetes
+100,30.1,Perempuan,35,Tidak Ada Riwayat,Tidak Diabetes
+213,23.3,Laki-Laki,32,Ada Riwayat,Diabetes
+80,38.7,Perempuan,42,Ada Riwayat,Tidak Diabetes
+116,29.9,Perempuan,50,Tidak Ada Riwayat,Tidak Diabetes
+163,33.3,Laki-Laki,33,Tidak Ada Riwayat,Tidak Diabetes
+163,40.8,Perempuan,45,Tidak Ada Riwayat,Tidak Diabetes
+88,28.5,Perempuan,25,Tidak Ada Riwayat,Tidak Diabetes
+147,29.7,Laki-Laki,30,Ada Riwayat,Diabetes
+184,43.2,Laki-Laki,26,Ada Riwayat,Diabetes
+158,36.5,Laki-Laki,37,Tidak Ada Riwayat,Diabetes
+105,31.6,Laki-Laki,24,Tidak Ada Riwayat,Tidak Diabetes
+171,31.6,Perempuan,25,Ada Riwayat,Diabetes
+107,27.8,Perempuan,28,Tidak Ada Riwayat,Tidak Diabetes
+185,26.6,Laki-Laki,27,Ada Riwayat,Diabetes
+100,18.2,Perempuan,21,Tidak Ada Riwayat,Tidak Diabetes
+165,42.3,Perempuan,24,Ada Riwayat,Diabetes
+85,29.6,Perempuan,46,Tidak Ada Riwayat,Tidak Diabetes
+163,32.8,Laki-Laki,45,Ada Riwayat,Diabetes
+121,41.3,Perempuan,29,Tidak Ada Riwayat,Tidak Diabetes
+190,35.5,Laki-Laki,66,Tidak Ada Riwayat,Diabetes
+95,35.3,Laki-Laki,29,Tidak Ada Riwayat,Tidak Diabetes
+131,35,Perempuan,35,Tidak Ada Riwayat,Tidak Diabetes
+176,34.1,Laki-Laki,38,Ada Riwayat,Diabetes
+91,29.5,Laki-Laki,22,Tidak Ada Riwayat,Tidak Diabetes
+176,38.5,Laki-Laki,67,Ada Riwayat,Diabetes
+163,37.2,Perempuan,28,Ada Riwayat,Diabetes
+188,44,Laki-Laki,43,Tidak Ada Riwayat,Diabetes
+104,21.8,Perempuan,21,Tidak Ada Riwayat,Tidak Diabetes
+91,24.6,Laki-Laki,31,Tidak Ada Riwayat,Tidak Diabetes
+124,41.3,Perempuan,28,Tidak Ada Riwayat,Tidak Diabetes
+177,25.5,Laki-Laki,47,Ada Riwayat,Diabetes
+134,29.3,Laki-Laki,39,Tidak Ada Riwayat,Tidak Diabetes
+112,39.9,Perempuan,25,Tidak Ada Riwayat,Tidak Diabetes
+105,32.2,Perempuan,22,Ada Riwayat,Tidak Diabetes
+186,43.3,Laki-Laki,26,Ada Riwayat,Diabetes
+115,40.6,Perempuan,26,Tidak Ada Riwayat,Tidak Diabetes
+105,32.4,Perempuan,27,Tidak Ada Riwayat,Tidak Diabetes
+72,24.2,Perempuan,28,Tidak Ada Riwayat,Tidak Diabetes
+132,33.3,Perempuan,24,Tidak Ada Riwayat,Tidak Diabetes
+117,27.3,Perempuan,59,Ada Riwayat,Tidak Diabetes
+101,25.9,Perempuan,39,Tidak Ada Riwayat,Tidak Diabetes
+139,35.9,Laki-Laki,43,Ada Riwayat,Diabetes
+164,55,Perempuan,26,Tidak Ada Riwayat,Tidak Diabetes
+181,42.9,Perempuan,36,Ada Riwayat,Diabetes
+164,37.4,Laki-Laki,24,Ada Riwayat,Diabetes
+183,42.4,Perempuan,28,Tidak Ada Riwayat,Diabetes
+121,34.5,Laki-Laki,30,Ada Riwayat,Tidak Diabetes
+104,33.2,Perempuan,26,Tidak Ada Riwayat,Tidak Diabetes
+209,39.1,Laki-Laki,31,Ada Riwayat,Diabetes
+173,31.2,Laki-Laki,29,Ada Riwayat,Diabetes
+170,41.3,Perempuan,28,Ada Riwayat,Diabetes
+149,32.4,Perempuan,24,Ada Riwayat,Diabetes
+159,38.5,Perempuan,43,Tidak Ada Riwayat,Diabetes
+175,37.9,Laki-Laki,40,Tidak Ada Riwayat,Diabetes
+175,30.3,Laki-Laki,53,Ada Riwayat,Diabetes
+195,30.4,Perempuan,49,Ada Riwayat,Diabetes
+132,45.5,Laki-Laki,23,Tidak Ada Riwayat,Diabetes
+75,36.5,Perempuan,26,Tidak Ada Riwayat,Tidak Diabetes
+186,48.3,Laki-Laki,32,Ada Riwayat,Diabetes
+141,27.5,Laki-Laki,40,Ada Riwayat,Diabetes
+107,33.1,Perempuan,22,Tidak Ada Riwayat,Tidak Diabetes
+121,32.5,Perempuan,39,Tidak Ada Riwayat,Tidak Diabetes
+153,18.2,Perempuan,27,Tidak Ada Riwayat,Tidak Diabetes
+96,22.1,Perempuan,37,Tidak Ada Riwayat,Tidak Diabetes
+107,22.2,Laki-Laki,23,Ada Riwayat,Tidak Diabetes
+161,33.3,Laki-Laki,23,Ada Riwayat,Tidak Diabetes
+155,27.6,Laki-Laki,49,Ada Riwayat,Diabetes
+119,22.1,Perempuan,21,Tidak Ada Riwayat,Tidak Diabetes
+141,24.4,Perempuan,42,Tidak Ada Riwayat,Tidak Diabetes
+116,34.7,Perempuan,22,Tidak Ada Riwayat,Tidak Diabetes
+88,24,Laki-Laki,35,Ada Riwayat,Tidak Diabetes
+188,42.3,Laki-Laki,44,Ada Riwayat,Diabetes
+74,43.5,Perempuan,21,Tidak Ada Riwayat,Tidak Diabetes
+153,47.9,Laki-Laki,43,Tidak Ada Riwayat,Tidak Diabetes
+70,24.5,Perempuan,36,Tidak Ada Riwayat,Tidak Diabetes
+87,36.8,Perempuan,31,Tidak Ada Riwayat,Tidak Diabetes
+135,43.3,Laki-Laki,45,Ada Riwayat,Diabetes
+80,37.8,Laki-Laki,24,Ada Riwayat,Tidak Diabetes
+99,35.5,Perempuan,25,Tidak Ada Riwayat,Tidak Diabetes
+119,26.6,Perempuan,31,Ada Riwayat,Tidak Diabetes
+71,29.2,Perempuan,21,Tidak Ada Riwayat,Tidak Diabetes
+94,28.9,Perempuan,24,Tidak Ada Riwayat,Tidak Diabetes
+220,43.1,Laki-Laki,33,Ada Riwayat,Diabetes
+100,39.5,Perempuan,25,Tidak Ada Riwayat,Tidak Diabetes
+105,37.6,Perempuan,51,Tidak Ada Riwayat,Tidak Diabetes
+155,27.9,Perempuan,62,Ada Riwayat,Tidak Diabetes
+100,20.8,Perempuan,48,Tidak Ada Riwayat,Tidak Diabetes
+198,32.5,Perempuan,38,Ada Riwayat,Diabetes
+179,37,Perempuan,31,Ada Riwayat,Diabetes
+184,32.4,Laki-Laki,45,Ada Riwayat,Diabetes
+201,45.4,Perempuan,54,Ada Riwayat,Diabetes
+77,38.1,Laki-Laki,30,Tidak Ada Riwayat,Tidak Diabetes
+177,29.5,Laki-Laki,50,Ada Riwayat,Diabetes
+189,34.3,Laki-Laki,41,Tidak Ada Riwayat,Diabetes
+95,24,Laki-Laki,34,Tidak Ada Riwayat,Tidak Diabetes
+78,25.2,Perempuan,22,Tidak Ada Riwayat,Tidak Diabetes
+188,42.3,Perempuan,48,Ada Riwayat,Diabetes
+197,37.6,Perempuan,43,Ada Riwayat,Diabetes
+83,24,Perempuan,33,Ada Riwayat,Tidak Diabetes
+160,34.2,Laki-Laki,45,Tidak Ada Riwayat,Diabetes
+180,39.9,Laki-Laki,41,Ada Riwayat,Diabetes
+170,32.7,Perempuan,45,Tidak Ada Riwayat,Diabetes
+110,28.9,Perempuan,46,Ada Riwayat,Tidak Diabetes
+134,27.6,Laki-Laki,37,Tidak Ada Riwayat,Tidak Diabetes
+194,28,Laki-Laki,29,Ada Riwayat,Diabetes
+120,21.7,Perempuan,67,Ada Riwayat,Tidak Diabetes
+169,30.9,Laki-Laki,31,Ada Riwayat,Diabetes
+143,32.9,Laki-Laki,41,Tidak Ada Riwayat,Tidak Diabetes
+109,19.6,Perempuan,60,Tidak Ada Riwayat,Tidak Diabetes
+119,25.6,Laki-Laki,29,Ada Riwayat,Tidak Diabetes
+99,38.8,Perempuan,22,Tidak Ada Riwayat,Tidak Diabetes
+123,30.1,Perempuan,23,Tidak Ada Riwayat,Tidak Diabetes
+106,33.5,Perempuan,42,Tidak Ada Riwayat,Tidak Diabetes
+79,25.6,Perempuan,28,Tidak Ada Riwayat,Tidak Diabetes
+134,46.1,Laki-Laki,27,Tidak Ada Riwayat,Tidak Diabetes
+138,30.5,Perempuan,33,Ada Riwayat,Diabetes
+84,18.4,Laki-Laki,27,Tidak Ada Riwayat,Tidak Diabetes
+111,33.1,Perempuan,28,Tidak Ada Riwayat,Tidak Diabetes
+155,50,Laki-Laki,36,Tidak Ada Riwayat,Tidak Diabetes
+117,33.2,Perempuan,22,Tidak Ada Riwayat,Tidak Diabetes
+162,34.4,Laki-Laki,44,Ada Riwayat,Diabetes
+97,45.2,Perempuan,24,Tidak Ada Riwayat,Tidak Diabetes
+180,35.7,Perempuan,22,Ada Riwayat,Diabetes
+158,30.5,Laki-Laki,25,Ada Riwayat,Diabetes
+103,35.2,Perempuan,29,Tidak Ada Riwayat,Tidak Diabetes
+188,37.8,Laki-Laki,22,Ada Riwayat,Diabetes
+133,27.1,Perempuan,24,Ada Riwayat,Tidak Diabetes
+180,33.6,Perempuan,22,Ada Riwayat,Diabetes
+102,35,Perempuan,29,Ada Riwayat,Tidak Diabetes
+201,38,Laki-Laki,23,Ada Riwayat,Diabetes
+74,24.7,Perempuan,21,Tidak Ada Riwayat,Tidak Diabetes
+155,33.8,Laki-Laki,54,Ada Riwayat,Diabetes
+94,27.8,Perempuan,66,Tidak Ada Riwayat,Tidak Diabetes
+77,36.8,Perempuan,25,Tidak Ada Riwayat,Tidak Diabetes
+107,27.7,Perempuan,25,Tidak Ada Riwayat,Tidak Diabetes
+153,34.9,Laki-Laki,25,Tidak Ada Riwayat,Tidak Diabetes
+188,59.4,Laki-Laki,25,Ada Riwayat,Diabetes
+155,32,Laki-Laki,31,Tidak Ada Riwayat,Tidak Diabetes
+153,32.9,Perempuan,31,Tidak Ada Riwayat,Tidak Diabetes
+151,34.3,Perempuan,33,Ada Riwayat,Diabetes
+97,30.8,Perempuan,22,Tidak Ada Riwayat,Tidak Diabetes
+175,32.5,Laki-Laki,70,Ada Riwayat,Diabetes
+105,24.7,Laki-Laki,21,Tidak Ada Riwayat,Tidak Diabetes
+150,28.4,Perempuan,22,Ada Riwayat,Diabetes
+121,20.1,Perempuan,23,Tidak Ada Riwayat,Tidak Diabetes
+174,46.1,Laki-Laki,46,Ada Riwayat,Diabetes
+95,21.8,Perempuan,21,Tidak Ada Riwayat,Tidak Diabetes
+186,24.8,Laki-Laki,53,Ada Riwayat,Diabetes
+182,23.4,Perempuan,33,Ada Riwayat,Diabetes
+179,29.3,Perempuan,42,Ada Riwayat,Diabetes
+177,28.6,Perempuan,21,Ada Riwayat,Diabetes
+172,30.4,Laki-Laki,43,Ada Riwayat,Diabetes
+159,34.3,Perempuan,42,Tidak Ada Riwayat,Tidak Diabetes
+175,44.2,Perempuan,31,Ada Riwayat,Diabetes
+217,37.1,Laki-Laki,56,Ada Riwayat,Diabetes
+102,29.8,Perempuan,22,Tidak Ada Riwayat,Tidak Diabetes
+115,26.7,Perempuan,62,Tidak Ada Riwayat,Tidak Diabetes
+178,37.6,Perempuan,51,Ada Riwayat,Diabetes
+102,31.2,Laki-Laki,41,Tidak Ada Riwayat,Tidak Diabetes
+192,53.2,Laki-Laki,25,Ada Riwayat,Diabetes
+111,23.7,Perempuan,21,Tidak Ada Riwayat,Tidak Diabetes
+133,32.4,Perempuan,42,Tidak Ada Riwayat,Tidak Diabetes
+132,39.5,Laki-Laki,42,Ada Riwayat,Diabetes
+133,36.8,Laki-Laki,24,Tidak Ada Riwayat,Tidak Diabetes
+159,39.9,Laki-Laki,44,Ada Riwayat,Diabetes
+217,37.7,Laki-Laki,41,Ada Riwayat,Diabetes
+156,30.1,Laki-Laki,47,Ada Riwayat,Diabetes
+105,24.3,Perempuan,25,Tidak Ada Riwayat,Tidak Diabetes
+108,34.6,Perempuan,45,Tidak Ada Riwayat,Tidak Diabetes
+162,45.7,Perempuan,27,Tidak Ada Riwayat,Tidak Diabetes
+174,38.5,Laki-Laki,37,Ada Riwayat,Diabetes
+112,28,Laki-Laki,63,Tidak Ada Riwayat,Tidak Diabetes
+170,39.2,Perempuan,58,Ada Riwayat,Diabetes
+154,32.9,Perempuan,30,Ada Riwayat,Diabetes
+112,45.3,Laki-Laki,46,Tidak Ada Riwayat,Tidak Diabetes
+117,24.2,Perempuan,55,Tidak Ada Riwayat,Tidak Diabetes
+92,34.4,Laki-Laki,25,Tidak Ada Riwayat,Tidak Diabetes
+90,37.6,Perempuan,30,Tidak Ada Riwayat,Tidak Diabetes
+181,42.9,Perempuan,36,Ada Riwayat,Diabetes
+164,36.8,Perempuan,38,Ada Riwayat,Diabetes
+123,26.2,Perempuan,21,Tidak Ada Riwayat,Tidak Diabetes
+101,31.9,Perempuan,25,Tidak Ada Riwayat,Tidak Diabetes
+99,45.3,Perempuan,26,Tidak Ada Riwayat,Tidak Diabetes
+99,19.6,Perempuan,72,Tidak Ada Riwayat,Tidak Diabetes
+176,35,Laki-Laki,43,Ada Riwayat,Diabetes
+188,25.1,Perempuan,55,Ada Riwayat,Diabetes
+89,23.1,Perempuan,26,Tidak Ada Riwayat,Tidak Diabetes
+97,28.7,Perempuan,30,Tidak Ada Riwayat,Tidak Diabetes
+96,25.6,Perempuan,30,Tidak Ada Riwayat,Tidak Diabetes
+197,32.3,Laki-Laki,30,Ada Riwayat,Diabetes
+80,32,Perempuan,42,Tidak Ada Riwayat,Tidak Diabetes
+167,31.2,Laki-Laki,38,Ada Riwayat,Diabetes
+72,19.5,Laki-Laki,25,Tidak Ada Riwayat,Tidak Diabetes
+146,32.3,Perempuan,35,Ada Riwayat,Diabetes
+144,32.8,Perempuan,50,Tidak Ada Riwayat,Tidak Diabetes
+151,36,Perempuan,25,Ada Riwayat,Diabetes
+107,28.5,Laki-Laki,37,Tidak Ada Riwayat,Tidak Diabetes
+195,29.9,Perempuan,31,Ada Riwayat,Diabetes
+80,31.6,Laki-Laki,28,Tidak Ada Riwayat,Tidak Diabetes
+98,37.6,Perempuan,24,Tidak Ada Riwayat,Tidak Diabetes
+77,27.2,Laki-Laki,22,Tidak Ada Riwayat,Tidak Diabetes
+169,25,Perempuan,64,Ada Riwayat,Diabetes
+80,27.8,Perempuan,21,Tidak Ada Riwayat,Tidak Diabetes
+160,28.4,Laki-Laki,34,Ada Riwayat,Diabetes
+97,31.6,Perempuan,38,Tidak Ada Riwayat,Tidak Diabetes
+71,29.8,Perempuan,31,Tidak Ada Riwayat,Tidak Diabetes
+190,32.9,Perempuan,28,Ada Riwayat,Diabetes
+190,30.1,Laki-Laki,59,Ada Riwayat,Diabetes
+103,42.1,Perempuan,26,Tidak Ada Riwayat,Tidak Diabetes
+186,37.3,Perempuan,40,Ada Riwayat,Diabetes
+200,31,Perempuan,26,Ada Riwayat,Diabetes
+87,45.3,Laki-Laki,24,Tidak Ada Riwayat,Tidak Diabetes
+194,32.8,Laki-Laki,45,Ada Riwayat,Diabetes
+198,38,Perempuan,34,Ada Riwayat,Diabetes
+190,43.4,Laki-Laki,42,Ada Riwayat,Diabetes
+106,22.5,Perempuan,22,Tidak Ada Riwayat,Tidak Diabetes
+205,33.6,Laki-Laki,38,Ada Riwayat,Diabetes
+182,43.3,Perempuan,41,Ada Riwayat,Diabetes
+128,32,Perempuan,46,Tidak Ada Riwayat,Tidak Diabetes
+79,38.6,Laki-Laki,21,Tidak Ada Riwayat,Tidak Diabetes
+166,31.2,Laki-Laki,22,Ada Riwayat,Diabetes
+159,41.2,Laki-Laki,38,Ada Riwayat,Diabetes
+200,49.7,Laki-Laki,31,Ada Riwayat,Diabetes
+188,33.8,Laki-Laki,31,Ada Riwayat,Diabetes
+164,28.9,Perempuan,23,Ada Riwayat,Diabetes
+74,26,Perempuan,21,Tidak Ada Riwayat,Tidak Diabetes
+180,33.3,Perempuan,41,Ada Riwayat,Diabetes
+177,38.4,Laki-Laki,25,Ada Riwayat,Diabetes
+119,40.7,Perempuan,21,Tidak Ada Riwayat,Tidak Diabetes
+186,40.5,Laki-Laki,24,Ada Riwayat,Diabetes
+200,36.4,Laki-Laki,36,Ada Riwayat,Diabetes
+185,33.3,Laki-Laki,28,Ada Riwayat,Diabetes
+171,30.4,Perempuan,21,Ada Riwayat,Diabetes
+132,21.8,Perempuan,26,Tidak Ada Riwayat,Tidak Diabetes
+92,38.4,Perempuan,28,Tidak Ada Riwayat,Tidak Diabetes
+193,40.9,Perempuan,47,Ada Riwayat,Diabetes
+110,34.2,Laki-Laki,27,Ada Riwayat,Diabetes
+172,33.3,Laki-Laki,52,Ada Riwayat,Diabetes
+197,37.1,Laki-Laki,43,Ada Riwayat,Diabetes
+171,42.4,Perempuan,29,Ada Riwayat,Diabetes
